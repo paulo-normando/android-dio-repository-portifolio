@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "id": 507317018,
+      "name": "android-basics-android-tip-time",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/android-basics-android-tip-time",
+      "description": "Android native app to calculate tips",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 505635529,
+      "name": "android-basics-kotlin-affirmations",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/android-basics-kotlin-affirmations",
+      "description": "Basic positive affirmations with RecycleView ",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 505139649,
+      "name": "android-basics-kotlin-card-app",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/android-basics-kotlin-card-app",
+      "description": "Basic birthday card",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 506026808,
+      "name": "android-basics-kotlin-dice-roller",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/android-basics-kotlin-dice-roller",
+      "description": "Basic 3 dice roller",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 514268038,
+      "name": "android-dio-business-card",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/android-dio-business-card",
+      "description": "Android native app that saves business card, and shares it to other contacts.",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    },
+    {
+      "id": 515317579,
+      "name": "android-dio-fork-filmesflix",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/android-dio-fork-filmesflix",
+      "description": "This project display a film list, by an Api consumption.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 513951797,
+      "name": "android-dio-location",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/android-dio-location",
+      "description": "Native android aplication for Google Maps Api use",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 508098486,
+      "name": "android-dio-matches-simulator",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/android-dio-matches-simulator",
+      "description": "App that connects into a json Api, load national america matches and returns random results based on team strengh",
+      "stargazers_count": 1,
+      "language": "Java"
+    },
+    {
+      "id": 509812213,
+      "name": "android-dio-matches-simulator-api",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/android-dio-matches-simulator-api",
+      "description": "API REST simulator repository for matches",
+      "stargazers_count": 0,
+      "language": "json"
+    },
+    {
+      "id": 511549203,
+      "name": "android-dio-soccer-news",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/android-dio-soccer-news",
+      "description": "App to list news from women soccer. It uses an GitHub pages as json Api simulator.",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 512214521,
+      "name": "android-dio-soccer-news-api",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/android-dio-soccer-news-api",
+      "description": "API REST simulator repository for soccer news",
+      "stargazers_count": 0,
+      "language": "json"
+    },
+    {
+      "id": 517751462,
+      "name": "paulo-normando",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/paulo-normando",
+      "stargazers_count": 0,
+      "language": "markdown",
+      "description": "Read.me profile"
+    },
+    {
+      "id": 495939641,
+      "name": "python-thesis-electrical-engineer",
+      "owner": {
+        "login": "paulo-normando",
+        "avatar_url": "https://avatars.githubusercontent.com/u/91965545?v=4"
+      },
+      "html_url": "https://github.com/paulo-normando/python-thesis-electrical-engineer",
+      "description": "Defense thesis for the degree in electrical engineering",
+      "stargazers_count": 0,
+      "language": "Python"
+    }
+  ]
+}
