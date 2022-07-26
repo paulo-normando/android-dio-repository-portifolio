@@ -6,6 +6,8 @@
 
 Project created to Santander Dio Bootcamp
 
+![image](https://user-images.githubusercontent.com/91965545/181119457-d2a7ca01-070b-4847-8e4f-ba08bda3936c.png)
+
 This project consumes Api Rest from GitHub and returns an list of repositories from an user.
 
 **Tech**
